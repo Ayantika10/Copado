@@ -164,13 +164,4 @@
     <searchLayouts/>
     <sharingModel>ControlledByParent</sharingModel>
     <visibility>Public</visibility>
-    <fields>
-        <fullName>Student_Number__c</fullName>
-        <displayFormat>SN-{000000}</displayFormat>
-        <externalId>false</externalId>
-        <label>Student Number</label>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>AutoNumber</type>
-    </fields>
 </CustomObject>
